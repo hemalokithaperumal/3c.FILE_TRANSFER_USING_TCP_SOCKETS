@@ -54,7 +54,8 @@ while True:
 ```
 ## OUPUT
 
-![ex 3c](https://github.com/user-attachments/assets/71296441-0f08-4a11-9737-a716122133b8)
+![image](https://github.com/user-attachments/assets/b54d3d9e-c288-4d49-b02e-dcd4dbdde857)
+
 
 
 ## RESULT
